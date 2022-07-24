@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reuse-component", "reuse-component\reuse-component.csproj", "{F4867CCF-CEE0-43E0-B515-2330C0720EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4867CCF-CEE0-43E0-B515-2330C0720EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4867CCF-CEE0-43E0-B515-2330C0720EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4867CCF-CEE0-43E0-B515-2330C0720EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4867CCF-CEE0-43E0-B515-2330C0720EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB5223CA-E421-4C61-86B3-34458251B40E}
+	EndGlobalSection
+EndGlobal
